@@ -1,0 +1,1 @@
+A responsive and informative website built to represent the spiritual, educational, and humanitarian activities of the Ramakrishna Mission. This project showcases the Mission's values, events, teachings of Sri Ramakrishna, Swami Vivekananda, and Sri Sarada Devi, and offers resources for devotees and visitors.
